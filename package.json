@@ -4,7 +4,7 @@
   "description": "nincs",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js | faucet"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
